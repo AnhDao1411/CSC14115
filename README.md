@@ -1,6 +1,9 @@
 # New York City Taxi Trip Duration
 
 ## Problem Statement
+What it is?
+Business benefits?
+(ask and refine "sharp" questions that are relevant, specific, and unambiguous) NO biased opinions. It is a Business Inteligence project. The development should be a loop ~ agile with BI question
 
 ### Overview
  @AD
