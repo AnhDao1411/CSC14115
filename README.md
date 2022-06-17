@@ -3,11 +3,13 @@
 ## Problem Statement
 
 ### Overview
-This is a kaggle competition that challenges us to predict the taxi trip duration in New York city. Dataset is provided by the NYC taxi and Limousine commision for building a model.   
+This is a kaggle competition that challenges us to predict the taxi trip duration in New York city. Dataset is provided by the NYC taxi and Limousine commision for building a model 
+
 Business motivation:
 - Improving traffic operations and solving bottlenecks that appear in the taxi traffic network
-- Providing user accurate time estimation to let them choose an optimized route 
-Input: a taxi trip with it's attributes
+- Providing user accurate time estimation to let them choose an optimized route
+
+Input: a taxi trip with it's attributes \
 Output: trip duration in seconds 
  
 ### Input and Output Data description
