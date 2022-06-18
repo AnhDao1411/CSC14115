@@ -13,7 +13,28 @@ Input: a taxi trip with it's attributes \
 Output: trip duration in seconds 
  
 ### Input and Output Data description
-@NL
+In file train.csv we have:
+- Shape: (1458644, 11)
+
+| Column name | Description | 
+| -------- | -------- | 
+| id   | the id for each trip     |
+| vendor_id   | the id provided Associated with the trip record     |
+| pickup_datetime   | date and time when the meter was engaged     |
+| dropoff_datetime   | date and time when the meter was disengaged    |
+| passenger_count   | The number of passengers in the taxi    |
+| pickup_longitude   | the longitude when the meter was engaged     |
+| pickup_latitude   | the latitude when the meter was engaged   |
+| dropoff_longitude   | the longitude when the meter was disengaged     |
+| dropoff_latitude   | the latitude when the meter was disengaged     |
+| store_and_fwd_flag   | This flag indicates whether the trip record was held in vehicle memory before sending to the vendor because the vehicle did not have a connection to the server  |
+| trip_duration  | duration of the trip in seconds     |
+
+
+- A line in train.csv
+
+![](https://i.imgur.com/LtLFbTO.png)
+
 
 ### Evaluation Metric
 - **Root Mean Squared Logarithmic Error** (RMSLE) is the metric was used to assess the result of this contest.
