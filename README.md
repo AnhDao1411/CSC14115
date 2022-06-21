@@ -4,6 +4,11 @@
 | 18127046   | Lư Ngọc Liên     |  [Ngocien](https://github.com/Ngocien) | [linlngc](https://www.kaggle.com/linlngc) |
 | 18127272   | Nguyễn Thị Anh Đào    | [AnhDao1411](https://github.com/AnhDao1411) | [anhonguynth](https://www.kaggle.com/anhonguynth) |
 
+### New York City Taxi Trip Duration
+[Kaggle competition link](https://www.kaggle.com/competitions/nyc-taxi-trip-duration/overview) \
+[Refered solution link](https://www.kaggle.com/competitions/nyc-taxi-trip-duration/discussion/39553?fbclid=IwAR3L8feEWK4_oMrqkdX3a6Lxae_72D29eseDKm_lcb3ezo6oTf1dsBMsGAg) \
+[Kaggle notebook](https://www.kaggle.com/code/anhonguynth/notebook47c88fe3d7/edit) \
+[Google colab notebook](https://colab.research.google.com/drive/1o0VmzxZztYTeXb4fHJWgy7L1nkq44Bh0)
 
 ### Weekly plan
 <table class="tg">
