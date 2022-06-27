@@ -44,5 +44,39 @@
     <td class="tg-0pky">Note the strong point of each idea</td>
     <td class="tg-0pky">All Team</td>
   </tr>
+ 
 </tbody>
 </table>
+
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-c3ow" rowspan="6">W07</td>
+    <td class="tg-c3ow" rowspan="3">Exploring the data</td>
+    <td class="tg-0pky">Basic statistic (size, common values..)<br> - numerical columns<br> - categorical columns</td>
+    <td class="tg-kgv7"><span style="color:#000">Lâm Ngọc Phương Anh</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Plots for individual column</td>
+    <td class="tg-kgv7"><span style="color:#000">Lư Ngọc Liên</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Plots for correlation (2 cols)</td>
+    <td class="tg-kgv7"><span style="color:#000">Nguyễn Thị Anh Đào</span></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" rowspan="3">Preprocess the data</td>
+    <td class="tg-0pky">Distance</td>
+    <td class="tg-kgv7"><span style="color:#000">Lư Ngọc Liên</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Datetime</td>
+    <td class="tg-kgv7"><span style="color:#000">Nguyễn Thị Anh Đào</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">OSRM features (best route dataset)</td>
+    <td class="tg-kgv7"><span style="color:#000">Lâm Ngọc Phương Anh</span></td>
+  </tr>
+</thead>
+</table>
+
