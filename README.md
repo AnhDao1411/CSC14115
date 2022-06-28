@@ -7,7 +7,7 @@
 ### New York City Taxi Trip Duration
 [Kaggle competition link](https://www.kaggle.com/competitions/nyc-taxi-trip-duration/overview) \
 [Refered solution link](https://www.kaggle.com/competitions/nyc-taxi-trip-duration/discussion/39553?fbclid=IwAR3L8feEWK4_oMrqkdX3a6Lxae_72D29eseDKm_lcb3ezo6oTf1dsBMsGAg) \
-[Kaggle notebook](https://www.kaggle.com/code/anhonguynth/notebook47c88fe3d7/edit) \
+[Kaggle notebook](https://www.kaggle.com/anhonguynth/project-csc14115) \
 [Google colab notebook](https://colab.research.google.com/github/AnhDao1411/CSC14115/blob/main/project.ipynb)
 
 ### Weekly plan
