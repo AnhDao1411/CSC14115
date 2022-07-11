@@ -72,6 +72,34 @@
     <td class="tg-0pky">OSRM features (best route dataset)</td>
     <td class="tg-kgv7"><span style="color:#000">Lâm Ngọc Phương Anh</span></td>
   </tr>
+  
+   <tr>
+    <td class="tg-c3ow" rowspan="6">W08</td>
+    <td class="tg-c3ow" rowspan="3">Prepare data</td>
+    <td class="tg-0pky">Preprocess data</td>
+    <td class="tg-kgv7"><span style="color:#000">Lâm Ngọc Phương Anh</span></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-c3ow" >Visualize data</td>
+     <td class="tg-kgv7"><span style="color:#000">Lư Ngọc Liên</span></td>
+  </tr>
+
+  <tr>
+    <td class="tg-c3ow">Create pipeline</td>
+    <td class="tg-kgv7"><span style="color:#000">Nguyễn Thị Anh Đào</span></td>
+  </tr>
+  
+  <tr>
+  <tr>
+    <td class="tg-c3ow" rowspan="3">Apply Model</td>
+    <td class="tg-0pky">Train model</td>
+    <td class="tg-kgv7">Nguyễn Thị Anh Đào</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Evaluate results</td>
+    <td class="tg-kgv7"><span style="color:#000">Lư Ngọc Liên</span></td>
+  </tr>
  
 </tbody>
 </table>
