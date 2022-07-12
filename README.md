@@ -76,7 +76,7 @@
    <tr>
     <td class="tg-c3ow" rowspan="6">W08</td>
     <td class="tg-c3ow" rowspan="3">Prepare data</td>
-    <td class="tg-0pky">Preprocess data</td>
+    <td class="tg-0pky">Explore and Extract data</td>
     <td class="tg-kgv7"><span style="color:#000">Lâm Ngọc Phương Anh</span></td>
   </tr>
   
