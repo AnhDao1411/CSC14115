@@ -45,6 +45,7 @@
     <td class="tg-0pky">Note the strong point of each idea</td>
     <td class="tg-0pky">All Team</td>
   </tr>
+  
   <tr>
     <td class="tg-c3ow" rowspan="6">W07</td>
     <td class="tg-c3ow" rowspan="3">Exploring the data</td>
@@ -74,7 +75,7 @@
   </tr>
   
    <tr>
-    <td class="tg-c3ow" rowspan="6">W08</td>
+    <td class="tg-c3ow" rowspan="5">W08</td>
     <td class="tg-c3ow" rowspan="3">Prepare data</td>
     <td class="tg-0pky">Explore and Extract data</td>
     <td class="tg-kgv7"><span style="color:#000">Lâm Ngọc Phương Anh</span></td>
@@ -91,15 +92,35 @@
   </tr>
   
   <tr>
-  <tr>
-    <td class="tg-c3ow" rowspan="3">Apply Model</td>
+    <td class="tg-c3ow" rowspan="2">Apply Model</td>
     <td class="tg-0pky">Train model</td>
     <td class="tg-kgv7">Nguyễn Thị Anh Đào</span></td>
   </tr>
   <tr>
     <td class="tg-0pky">Evaluate results</td>
-    <td class="tg-kgv7"><span style="color:#000">Lư Ngọc Liên</span></td>
+    <td class="tg-kgv7">Lư Ngọc Liên</td>
   </tr>
+  
+  <tr>
+    <td class="tg-c3ow" rowspan="4">W09</td>
+    <td class="tg-c3ow" rowspan="1">Prepare data</td>
+    <td class="tg-0pky">Select features can affect trip duration</td>
+    <td class="tg-kgv7"><span style="color:#000">Lâm Ngọc Phương Anh</span></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" rowspan="3">Model</td>
+    <td class="tg-0pky">Add definition of XGBoost</td>
+    <td class="tg-kgv7">Nguyễn Thị Anh Đào</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Tune hyperparameters of XGBoost</td>
+    <td class="tg-kgv7">Lư Ngọc Liên</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Find out important feature</td>
+    <td class="tg-kgv7">Nguyễn Thị Anh Đào</td>
+  </tr>
+  
  
 </tbody>
 </table>
