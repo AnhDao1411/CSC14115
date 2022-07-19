@@ -118,7 +118,7 @@
   </tr>
   <tr>
     <td class="tg-0pky">Find out important feature</td>
-    <td class="tg-kgv7">Nguyễn Thị Anh Đào</td>
+    <td class="tg-kgv7">Lư Ngọc Liên</td>
   </tr>
   
  
