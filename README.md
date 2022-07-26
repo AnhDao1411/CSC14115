@@ -122,6 +122,22 @@
     <td class="tg-kgv7">Lư Ngọc Liên</td>
   </tr>
   
+  <tr>
+    <td class="tg-c3ow" rowspan="4">W10</td>
+    <td class="tg-c3ow" rowspan="2">Improvement</td>
+    <td class="tg-0pky">Fix the teacher's notes</td>
+    <td class="tg-kgv7"><span style="color:#000">Lâm Ngọc Phương Anh</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Extract more features in OSRM dataset</td>
+    <td class="tg-kgv7"><span style="color:#000">Nguyễn Thị Anh Đào</span></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" rowspan="1">Model</td>
+    <td class="tg-0pky">Tune hyperparameters of XGBoost manually</td>
+    <td class="tg-kgv7">Lư Ngọc Liên</td>
+  </tr>
+  
  
 </tbody>
 </table>
