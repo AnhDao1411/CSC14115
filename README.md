@@ -123,7 +123,7 @@
   </tr>
   
   <tr>
-    <td class="tg-c3ow" rowspan="4">W10</td>
+    <td class="tg-c3ow" rowspan="3">W10</td>
     <td class="tg-c3ow" rowspan="2">Improvement</td>
     <td class="tg-0pky">Fix the teacher's notes</td>
     <td class="tg-kgv7"><span style="color:#000">Lâm Ngọc Phương Anh</span></td>
@@ -136,6 +136,22 @@
     <td class="tg-c3ow" rowspan="1">Model</td>
     <td class="tg-0pky">Tune hyperparameters of XGBoost manually</td>
     <td class="tg-kgv7">Lư Ngọc Liên</td>
+  </tr>
+  
+  <tr>
+    <td class="tg-c3ow" rowspan="3">W11</td>
+    <td class="tg-c3ow" rowspan="1">Improvement</td>
+    <td class="tg-0pky">Fix the teacher's notes</td>
+    <td class="tg-kgv7"><span style="color:#000">Nguyễn Thị Anh Đào</span></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" rowspan="2">Model</td>
+    <td class="tg-0pky">Tune hyperparameters of XGBoost manually</td>
+    <td class="tg-kgv7">Lư Ngọc Liên</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Add xgboost's hyper-parameters meaning</td>
+    <td class="tg-kgv7">Lâm Ngọc Phương Anh</td>
   </tr>
   
  
