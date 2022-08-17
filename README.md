@@ -9,7 +9,7 @@
 [Refered main solution - Author: Webber](https://www.kaggle.com/competitions/nyc-taxi-trip-duration/discussion/39553?fbclid=IwAR3L8feEWK4_oMrqkdX3a6Lxae_72D29eseDKm_lcb3ezo6oTf1dsBMsGAg) \
 [Refered auxiliary solution- Author: Beluga](https://www.kaggle.com/code/gaborfodor/from-eda-to-the-top-lb-0-367) \
 [Kaggle notebook](https://www.kaggle.com/anhonguynth/project-csc14115) \
-[Google colab notebook](https://colab.research.google.com/github/AnhDao1411/CSC14115/blob/main/project.ipynb)
+[Google colab notebook](https://colab.research.google.com/drive/1Y7CIoAartpsYinfeLGGZyzfX-_r15JvD?usp=sharing)
 
 ### Weekly plan
 <table class="tg">
@@ -154,6 +154,13 @@
     <td class="tg-kgv7">Lâm Ngọc Phương Anh</td>
   </tr>
   
+ <tr>
+    <td class="tg-c3ow" rowspan="3">W12</td>
+    <td class="tg-c3ow" rowspan="1">Experiment and complete the report</td>
+    <td class="tg-0pky">Complete the report. Add and experiment with: pca feature, remove outliers, center_cluster feature. However, our experiment is too overfit on trainset.</td>
+    <td class="tg-kgv7"><span style="color:#000">All team</span></td>
+  </tr>
+
  
 </tbody>
 </table>
